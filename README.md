@@ -2,7 +2,7 @@
 
 An interactive educational tool for learning and experimenting with quantum computing concepts through visual simulations and hands-on practice.
 
-![Quantum Computing Simulator](assets/images/app_preview.png)
+📱 Quantum Computing Simulator
 
 ## Features
 
@@ -118,15 +118,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [Asif Ali Abbasi]([(https://www.linkedin.com/in/asif-ali-abbasi)])
 
 Project Link: [https://github.com/yourusername/quantum_computing_simulator](https://github.com/yourusername/quantum_computing_simulator)
-
-## Screenshots
-
-![Home Screen](assets/images/home_screen.png)
-![Experiment Mode](assets/images/experiment_mode.png)
-![Learning Resources](assets/images/learning_resources.png)
 
 ## Roadmap
 
